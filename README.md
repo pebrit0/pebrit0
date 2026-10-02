@@ -2,7 +2,7 @@
 
 ## About Me:
 I'm a 18 years student at **IFSP**
-📚 Currently studying **C language and computer network** 
+📚 Currently studying **Java language and computer network** 
 🎒 PACTEC scholarship holder in the research project **MaratonIF: Programação Competitiva como Ferramenta Pedagógica**
 
 ## My Stack:
